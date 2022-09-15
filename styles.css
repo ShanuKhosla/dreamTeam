@@ -1,0 +1,158 @@
+body{
+  background-image: url("Dream Background 1.png");
+  background-repeat: repeat-y;
+  background-size: 100% 100%;
+  color: white;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem
+
+}
+
+p, li{
+  font-size: 1.2rem;
+}
+
+.landingPage_img{
+margin: 60px;
+}
+
+#landing_page{
+color: white;
+text-align: center;
+}
+
+#ABOUT{
+  margin:200px 70px 300px;
+}
+
+#ABOUT_EVENT{
+  margin:300px 70px 200px;
+}
+
+#RULES{
+  margin:300px 70px 300px;
+}
+
+#SPONSORS{
+  margin:200px 70px 100px;
+}
+
+#SOCIALS{
+  margin:50px;
+}
+.about_us{
+  margin: 70px;
+  text-align: justify;
+  color: white;
+  line-height: 25px;
+  background: rgba(128, 128, 128, 0.15);
+  border-radius: 20px;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.about_p{
+  margin: 70px;
+}
+
+.about_event{
+  margin: 70px;
+  text-align: justify;
+  color: white;
+  line-height: 25px;
+  background: rgba(128, 128, 128, 0.2);
+  border-radius: 20px;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.rules{
+  margin: 70px;
+  text-align: justify;
+  color: white;
+  line-height: 25px;
+  background: rgba(128, 128, 128, 0.2);
+  border-radius: 20px;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.sponsors{
+  margin: 70px;
+  text-align: justify;
+  color: white;
+  line-height: 25px;
+  background: rgba(128, 128, 128, 0.2);
+  border-radius: 20px;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.rounds{
+  margin: 15px;
+}
+
+.social_img{
+  width: 30px;
+  display: inline-block;
+  margin: 8px;
+  transition: ease-in-out 0.3s;
+}
+
+.social_img:hover {
+  width: 40px;
+  display: inline-block;
+  margin: 8px;
+  transition: ease-in-out 0.3s;
+}
+
+.socials{
+  text-align: center;
+}
+
+.footer{
+  margin: 20px;
+  text-align: justify;
+  color: white;
+  line-height: 25px;
+
+  border-radius: 20px;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+
+nav{
+  background: rgba(0, 0, 0, 0.7);
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo_img{
+  height: 52px;
+  width: 170px;
+
+}
+
+#btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+}
+
+.founder_center{
+  text-align: center;
+}
+
+.founder{
+  display: inline-block;
+  margin: 50px;
+}
+.about_img{
+  height: 220px;
+  width: 200px;
+  margin: 10px;
+}
